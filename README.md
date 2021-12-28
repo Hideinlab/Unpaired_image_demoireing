@@ -17,10 +17,12 @@ We provide PyTorch versions and data for our paper "Unpaired Screen-shot Image D
 For training:
 + Running "Train.py" to train our networks
 
-We train our network using "LCDMoire dataset"
+We train our network using "LCDMoire dataset".
+Get the train dataset from : https://drive.google.com/file/d/1TUFC7FEgC4APDy_mjwtmiaabum7buPff/view?usp=sharing
 
 For testing:
 + Running "Test.py" to produce test outputs
+Get the test dataset from : https://drive.google.com/file/d/1I5FHN-sOvGbbVgVyywLZqIhbekGMhwz2/view?usp=sharing
 
 Requirement:
 + Download network weight from: https://drive.google.com/drive/folders/1-gURVMGQFyGmVoOvBfHmKIr3B4TrCkEs?usp=sharing
