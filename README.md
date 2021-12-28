@@ -24,5 +24,5 @@ For testing:
 + Running "Test.py" to produce test outputs
 + Get the test dataset from : https://drive.google.com/file/d/1I5FHN-sOvGbbVgVyywLZqIhbekGMhwz2/view?usp=sharing
 
-Requirement:
+Pretrained model:
 + Download network weight from: https://drive.google.com/drive/folders/1-gURVMGQFyGmVoOvBfHmKIr3B4TrCkEs?usp=sharing
