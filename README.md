@@ -8,6 +8,7 @@ We provide PyTorch versions and data for our paper "Unpaired Screen-shot Image D
 
 
 # Prerequisites:
++ Linux or macOS
 + Python 3.8
 + Pytorch 1.8.1
 
